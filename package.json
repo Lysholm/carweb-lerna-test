@@ -6,9 +6,10 @@
     "start": "node ./packages/carweb-app/index.js"
   },
   "devDependencies": {
-    "cz-lerna-changelog": "^1.2.1",
-    "git-cz": "^1.7.1",
-    "lerna": "^3.3.0"
+    "cz-lerna-changelog": "1.2.1",
+    "git-cz": "1.7.1",
+    "lerna": "2.11.0",
+    "lerna-semantic-release": "9.1.0"
   },
   "config": {
     "commitizen": {
